@@ -1,0 +1,38 @@
+# Nightjar Radio
+
+> Fictional late-night radio drama studio, est. 1948, broadcasting from the converted lighthouse at Gullwrack Point on the invented Dunmore Reach. Six series in repertory. All content fictional; demo forms send nothing.
+
+Identity: "Broadcast Amber" - valve amber on midnight navy, cream receiver paper, on-air red accents. Fraunces display against Outfit body. Motion: tuning-needle sweep, on-air pulse, staggered signal reveals, press-R time-signal chime.
+
+## Series
+- The Lighthouse Letters (Mystery, since 1952): Twelve sealed letters wash ashore each season at Gullwrack Point, and keeper Iris Vane answers them in order. A slow-burn coastal mystery recorded in one take, tide permitting.
+- Gullwrack Tide Tables (Folklore, since 1961): Half hour of harbour folklore from the Reach: drowned bells, wool-weather, the ferryman who still rings twice. Read by the fishermen who claim to have seen them.
+- The Midnight Exchange (Noir, since 1968): An anthology of night-shift noir set in the fog districts of Dunmore Reach. Six detectives, one city, and the desk sergeant who never sleeps.
+- Signal Fires (Science Fiction, since 1977): A serial about the last radio operators of the Ashfall Years, relaying hope down a chain of burning towers. Recorded live to wire with a full effects bench.
+- The Understudy's War (Historical, since 1983): The wartime diary of a theatre understudy who performed eleven first nights in one season and never once took a bow. Adapted from the Aldercott papers.
+- Wire & Wool (Comedy, since 1994): Two knitting-club secretaries run a pirate radio station from a byre. Truly the funniest thing ever broadcast at 3 watts.
+
+## Transmissions (studio notes)
+- On Dead Air (2026-09-02): Dead air is not silence. It is a room holding its breath while eleven people decide whether to laugh or start again. We keep it in the archive on purpose.
+- The Fourth Wall of Wire (2026-06-14): Radio builds its fourth wall out of copper and habit. A working note on why our effects bench still uses a real door, a real latch, and a real audience of one cat.
+- Why We Broadcast at Night (2026-03-08): AM skip opens after dark, and so does the imagination. A short history of the night slot, from crystal sets to the patchwork of relays that still carries us up the Reach.
+
+## Pages
+- / : studio overview, tuning dial, tonight's wire
+- /shows.html, /shows/<slug>.html : the six series
+- /schedule.html : weekly schedule (Gullwrack Mean Time)
+- /archive.html : lacquer vault and digitisation queue
+- /studio.html : the Old Light and the effects bench
+- /voices.html : the company
+- /support.html : membership tiers
+- /listen.html : frequencies and shortwave
+- /history.html : 1948 to now
+- /contact.html, /faq.html, /press.html, /visit.html, /care.html, /about.html
+- /privacy.html, /terms.html, /sitemap.html
+- /404.html : dead air
+
+No cookies, no analytics, no third-party requests. One localStorage theme key (nj-theme).
+
+- /letters.html : the letters wall
+- /bench.html : effects bench catalogue
+- /relays.html : the relay chain

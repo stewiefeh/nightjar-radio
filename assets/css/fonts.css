@@ -1,0 +1,19 @@
+/* NIGHTJAR RADIO - self-hosted fonts */
+@font-face {
+  font-family: 'Fraunces';
+  src: url('../fonts/fraunces-latin.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap;
+  unicode-range: U+0000-00FF, U+2013-2014, U+2018-2019, U+201C-201D, U+2026;
+}
+@font-face {
+  font-family: 'Fraunces';
+  src: url('../fonts/fraunces-italic-latin.woff2') format('woff2');
+  font-weight: 100 900; font-style: italic; font-display: swap;
+  unicode-range: U+0000-00FF, U+2013-2014, U+2018-2019, U+201C-201D, U+2026;
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('../fonts/outfit-latin.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap;
+  unicode-range: U+0000-00FF, U+2013-2014, U+2018-2019, U+201C-201D, U+2026;
+}
